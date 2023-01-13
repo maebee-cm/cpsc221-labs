@@ -1,0 +1,3 @@
+interface DisplayAttitude {
+	void display();
+}
